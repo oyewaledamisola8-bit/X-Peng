@@ -114,7 +114,7 @@ body {
     font-weight: 600;
 }
 .ideal-child:nth-child(1) p {
-    font-size: 13.9833px;
+    font-size: 13.983px;
     font-weight: 400;
 }
 
@@ -178,7 +178,7 @@ label:hover {
 }
 
 .ideal-child:nth-child(3) p {
-    font-size: 13.9844px;
+    font-size: 13.984px;
 }
 
 .ideal-child:nth-child(3) a {
